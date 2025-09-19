@@ -40,9 +40,6 @@ This repository contains the code, data, and results for experiments on predicti
 ├── Ongoing work to improve performance on new/unseen lakes
 └── Still **work in progress (WIP)**
 
-📂 doc-prediction
-└── Visualizations and figures (e.g., model performance heatmaps)
-
 ```
 
 ---
@@ -50,4 +47,5 @@ This repository contains the code, data, and results for experiments on predicti
 ## Acknowledgments
 
 This work uses long-term in-situ data from the Adirondack Long-Term Monitoring (ALTM) program.  
+
 
