@@ -17,7 +17,7 @@ Aisha Malik¹, Marzi Azarderakhsh², Leonid Metlitsky³, Reginald Blake², and H
 
 ## Results
 
-Below is a heatmap showing the performance of different machine learning models trained on the satellite and in-situ data:
+Below is a heatmap showing the performance of different machine learning models trained on the satellite and in-situ data based on current model inputs that result in limited accuracy with new/unseen lakes:
 
 ![Model Performance Heatmap](https://github.com/aisha1021/lake-research-nsf/blob/560a5fafe8abcbf76b3e4f0b6cd4cb60abd147cb/doc-prediction/original_model_heatmap.png)
 
@@ -46,7 +46,8 @@ This repository contains the code, data, and results for experiments on predicti
 
 ## Acknowledgments
 
-This work uses long-term in-situ data from the Adirondack Long-Term Monitoring (ALTM) program.  
+This research project was supported by NY Department of Environmental Conservation Grant #DEC01-C01714GG-3350000 (NYS-DEC) and NSF Grant AGS-2150432 (REU). Special appreciation to the New York State SCALE (Survey of Climate Change and Adirondack Lake Ecosystems) project for sharing the in-situ data.
+
 
 
 
