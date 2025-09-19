@@ -29,13 +29,13 @@ This repository contains the code, data, and results for experiments on predicti
 
 ```
 
-📂 v1\_original\_model
+📂 v1_original_model
 ├── Jupyter notebooks for each satellite sensor (Landsat 5/7/8, Sentinel-2)
 ├── Tested machine learning models with visualized results
 ├── **data/** – includes site information, in-situ measurements, and derived satellite band data
 └── ⚠️ Models perform well on **known lakes** but poorly on **new/unseen lakes**
 
-📂 v2\_new\_features
+📂 v2_new_features
 ├── Jupyter notebooks for each sensor trained with engineered features
 ├── Ongoing work to improve performance on new/unseen lakes
 └── Still **work in progress (WIP)**
@@ -47,5 +47,6 @@ This repository contains the code, data, and results for experiments on predicti
 ## Acknowledgments
 
 This work uses long-term in-situ data from the Adirondack Long-Term Monitoring (ALTM) program.  
+
 
 
